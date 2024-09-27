@@ -1,12 +1,12 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import styles from './app.module.css';
 
-import MindMap from './MindMap';
+import Fake from './FakeFile';
 
 export function App() {
   return (
     <div>
-      <MindMap />
+      <Fake />
     </div>
   );
 }

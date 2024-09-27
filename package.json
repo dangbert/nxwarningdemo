@@ -12,10 +12,8 @@
   "private": true,
   "dependencies": {
     "@nx/rspack": "19.7.1",
-    "@xyflow/react": "^12.3.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "react-router-dom": "^6.26.2",
     "tslib": "^2.3.0"
   },
   "devDependencies": {

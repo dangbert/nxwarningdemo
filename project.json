@@ -14,7 +14,7 @@
         "outputPath": "dist/nxwarningdemo",
         "main": "src/main.tsx",
         "tsConfig": "tsconfig.app.json",
-        "rspackConfig": "rspack.config.js",
+        "rspackConfig": "rspack.config.ts",
         "assets": ["src/favicon.ico", "src/assets"]
       },
       "configurations": {
